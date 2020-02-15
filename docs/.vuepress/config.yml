@@ -1,0 +1,17 @@
+title: 代码管理规范
+description: 代码管理、版权、版本
+themeConfig:
+  nav:
+  - text: git
+    link: /git/
+  - text: workflow
+    link: /git-workflow/
+  - text: monorepo
+    link: /monorepo/
+  - text: multirepo
+    link: /multirepo/
+
+  sidebar:
+    /git/:
+      - Tag
+      - CHANGE_LOGO
