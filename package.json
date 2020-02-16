@@ -2,7 +2,7 @@
   "name": "code-management-handbook",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:yyong008/git-handbook.git",
+  "repository": "git@github.com:yyong008/Code-Management-handbook.git",
   "author": "Magnesium- <757057999@qq.com>",
   "scripts": {
     "docs:dev": "vuepress dev docs",

@@ -15,5 +15,6 @@ themeConfig:
 
   sidebar:
     /git/:
+      - git-config
       - Tag
       - CHANGE_LOGO
