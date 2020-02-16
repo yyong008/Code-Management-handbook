@@ -10,6 +10,8 @@ themeConfig:
     link: /monorepo/
   - text: multirepo
     link: /multirepo/
+  - text: 参与者公约
+    link: 'https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/'
 
   sidebar:
     /git/:

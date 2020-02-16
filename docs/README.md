@@ -5,6 +5,10 @@ sidebar: auto
 
 <img src="./.vuepress/public/manage.jpg" class="img"></img>
 
+## 贡献者约定
+
+[Contributor Covenant 参与者公约](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/)
+
 ## 软件版权
 
 ### 国内
